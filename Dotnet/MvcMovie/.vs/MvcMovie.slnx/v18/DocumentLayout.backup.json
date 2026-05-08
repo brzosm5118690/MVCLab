@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mati_\\OneDrive\\Dokumenty\\MVC\\Dotnet\\MvcMovie\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mati_\\OneDrive\\Dokumenty\\MVC\\Dotnet\\MvcMovie\\Migrations\\20260508211657_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260508211657_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mati_\\OneDrive\\Dokumenty\\MVC\\Dotnet\\MvcMovie\\Controllers\\MoviesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\MoviesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|c:\\users\\mati_\\onedrive\\dokumenty\\mvc\\dotnet\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA6966A-DBE8-5BC4-C47E-FD3264429C99}|MvcMovie.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260508211657_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mati_\\OneDrive\\Dokumenty\\MVC\\Dotnet\\MvcMovie\\Migrations\\20260508211657_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260508211657_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mati_\\OneDrive\\Dokumenty\\MVC\\Dotnet\\MvcMovie\\Migrations\\20260508211657_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260508211657_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T21:16:57.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\mati_\\OneDrive\\Dokumenty\\MVC\\Dotnet\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\mati_\\OneDrive\\Dokumenty\\MVC\\Dotnet\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T21:00:45.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\mati_\\OneDrive\\Dokumenty\\MVC\\Dotnet\\MvcMovie\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\mati_\\OneDrive\\Dokumenty\\MVC\\Dotnet\\MvcMovie\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T20:51:10.221Z",
+              "EditorCaption": ""
             }
           ]
         }
