@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../TaskManagementMVC.Tests/TaskManagementMVC.Tests.csproj" Id="310d28d7-956b-4e79-95e6-410516b6732c" />
+  <Project Path="TaskManagementMVC.csproj" />
+</Solution>
